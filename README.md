@@ -6,6 +6,13 @@
 
 <p>Cryptographic applications and cryptocurrency wallets have critical components such as key generation, encryption/decryption, transaction signing, etc. These components should be the main targets for fuzz testing. Using fuzz testing in cryptographic applications and cryptocurrency wallets helps identify and fix vulnerabilities, increasing the security and reliability of the software.</p>
 
+---
+
+* Tutorial: https://youtu.be/CU4CFoxgKc8
+* Tutorial: https://cryptodeeptech.ru/fuzzing-bitcoin
+* Google Colab: https://colab.research.google.com/drive/1jxw_oBTd0HW6M2Mo_VDvdYcsXQyb6KHF
+
+---
 
 
 <p><strong>Fuzzing testing&nbsp;</strong><em>(or simply Fuzzing)</em>&nbsp;is a software testing method that is used to identify vulnerabilities and errors by feeding random or specially generated data to a program’s input. In the context of cryptanalysis, fuzz testing is used to test cryptographic algorithms and systems for weaknesses that can be exploited by attackers.</p>
